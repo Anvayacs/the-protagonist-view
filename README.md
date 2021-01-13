@@ -1,6 +1,6 @@
-### [the-protagonist] Anvay Arora [website]
+### [the-protagonist] Anvay Arora 
 
-[Github Profile]("https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg")](https://github.com/the-protagonist-view)
+[[Github Profile]("https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg")](https://github.com/the-protagonist-view)
 
 ## I am Anvay, a 15 year old student developer
 
