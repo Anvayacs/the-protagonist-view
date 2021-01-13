@@ -1,6 +1,6 @@
 ### [the-protagonist] Anvay Arora [website]
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/the-protagonist-view)
+[Github Profile]("https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg")](https://github.com/the-protagonist-view)
 
 ## I am Anvay, a 15 year old student developer
 
