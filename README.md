@@ -14,7 +14,7 @@
 #### Currently Launched a mathematical tool called Octans, to be expanded furthermore to a reasearch oriented tool
 #### Created an e-commerce app on flutter for a small buissness
 #### Working on a machine learning project [stock prediction and analysis]
-#### Working on an artificial intelligence
+#### Working on an artificial intelligence project
 
 ### Connect with me:
 
