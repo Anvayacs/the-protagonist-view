@@ -4,11 +4,10 @@
 
 ## I am Anvay, a 15 year old student developer
 
-- 🔭 I just launched my first Repository on github
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking to start my own company 
-- Currently own the ARC- Matrix Organization on github
+- 🔭 Currently own the ARC- Matrix Organization on github
 
 ## Projects :
 
