@@ -7,8 +7,6 @@ Profile: ("https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Looking to start my own company 
 
-## Languages and Tools
-
 ## 🧰 Languages and Tools:
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
