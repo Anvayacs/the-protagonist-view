@@ -1,6 +1,3 @@
-###  Anvay Arora 
-
-
 ## I am Anvay, a 15 year old student developer
 
 - 🌱 I’m currently learning everything 
