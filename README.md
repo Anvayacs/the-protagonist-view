@@ -1,4 +1,4 @@
-## I am Anvay, a 16 year old student developer
+## I am Anvay, a 17 year old student developer
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
